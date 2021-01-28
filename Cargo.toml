@@ -3,6 +3,7 @@ name = "calcifer-client"
 version = "0.1.0"
 authors = ["Arco Hsieh <yiyezhihen@gmail.com>", "Rosehsu <rosehsu47@gmail.com>"]
 edition = "2018"
+license = "MIT"
 keywords = ["api"]
 description = "The API client for calcifer service"
 homepage = "https://github.com/WF-Engineering/calcifer-client"
