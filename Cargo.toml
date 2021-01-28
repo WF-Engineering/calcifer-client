@@ -1,8 +1,12 @@
 [package]
 name = "calcifer-client"
 version = "0.1.0"
-authors = ["Arco Hsieh <yiyezhihen@gmail.com>"]
+authors = ["Arco Hsieh <yiyezhihen@gmail.com>", "Rosehsu <rosehsu47@gmail.com>"]
 edition = "2018"
+keywords = ["api"]
+description = "The API client for calcifer service"
+homepage = "https://github.com/WF-Engineering/calcifer-client"
+repository = "https://github.com/WF-Engineering/calcifer-client"
 
 [dependencies]
 reqwest = { version = "0.10", features = ["json"] }
